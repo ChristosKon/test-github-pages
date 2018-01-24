@@ -1,5 +1,5 @@
 # test-github-pages
-I create this repo to test how web devs can take advantage of github pages.
+Static test page for GitHub Pages http://christoskon.github.io/test-github-pages/
 
 GitHub's guide is pretty clear: https://pages.github.com/
 
